@@ -11,6 +11,6 @@ To learn Document Object Manipulation Model Basics
 - JavaScript(DOM)
 
 ### Usage
-- Clone the repo and run index.html or [Clock](https://jordandivyansh.github.io/basictodo/)
+- Clone the repo and run index.html or [To-DO](https://jordandivyansh.github.io/basictodo/)
 
 #### [Divyansh Kumar](https://jordandivyansh.github.io/divyanshkumar)
